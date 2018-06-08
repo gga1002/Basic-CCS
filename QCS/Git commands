@@ -1,0 +1,4 @@
+git init crear el repositorio 
+git add  "Agrega los archivos al staging area"
+git commit "Agregar los archivos al repositorio"
+

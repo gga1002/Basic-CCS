@@ -1,0 +1,24 @@
+.showcase{
+    background: #333 url(code-coding-computer-248515.jpg);
+    min-height: 10em;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    opacity: 0.6;
+    z-index: -1;
+    padding: 1em;
+}
+
+.showcase p {
+    padding: 0 7em;
+}
+
+.showcase span{
+    border: solid 2px #fff;
+    padding: .4em;
+}
+
+.showcase  a{
+    text-decoration: none;
+    color: deepskyblue;
+}
